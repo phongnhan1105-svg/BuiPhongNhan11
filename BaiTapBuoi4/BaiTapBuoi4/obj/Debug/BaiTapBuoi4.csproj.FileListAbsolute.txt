@@ -1,0 +1,10 @@
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.csproj.AssemblyReference.cache
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.Form1.resources
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.Properties.Resources.resources
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.csproj.GenerateResource.cache
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.csproj.CoreCompileInputs.cache
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\bin\Debug\BaiTapBuoi4.exe.config
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\bin\Debug\BaiTapBuoi4.exe
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\bin\Debug\BaiTapBuoi4.pdb
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.exe
+C:\Users\BaiTapBuoi4\source\repos\BaiTapBuoi4\BaiTapBuoi4\obj\Debug\BaiTapBuoi4.pdb
